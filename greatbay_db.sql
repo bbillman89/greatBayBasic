@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS ice_creamDB;
+DROP DATABASE IF EXISTS greatbay_db;
 
-CREATE DATABASE ice_creamDB;
+CREATE DATABASE greatbay_db;
 
-USE ice_creamDB;
+USE greatbay_db;
 
 CREATE TABLE products (
   id INT NOT NULL AUTO_INCREMENT,
